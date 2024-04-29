@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: bc238485874f06646bfd39f2e51041fd
+  productGUID: f11aff4f9438f1a4e9711d3e44da5d11
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Velocity_project
+  productName: Swords_project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -707,10 +707,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 82bae334-4d7c-431d-95b7-0900d539d7f0
+  cloudProjectId: 02e1f4f0-a16e-4c26-b7e8-6e24cad01f5d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Velocity_project
+  projectName: Swords_project
   organizationId: buzko1807
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
